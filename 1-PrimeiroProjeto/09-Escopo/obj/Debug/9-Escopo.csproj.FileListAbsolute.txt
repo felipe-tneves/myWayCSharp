@@ -1,0 +1,7 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\bin\Debug\09-Escopo.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\bin\Debug\09-Escopo.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\bin\Debug\09-Escopo.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\obj\Debug\09-Escopo.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\09-Escopo\obj\Debug\09-Escopo.pdb

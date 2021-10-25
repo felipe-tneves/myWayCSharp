@@ -1,0 +1,7 @@
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe.config
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.pdb
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.pdb
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.AssemblyReference.cache

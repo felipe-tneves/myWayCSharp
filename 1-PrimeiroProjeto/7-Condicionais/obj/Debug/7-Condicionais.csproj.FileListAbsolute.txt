@@ -1,0 +1,6 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\bin\Debug\7-Condicionais.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\7-Condicionais\obj\Debug\7-Condicionais.pdb

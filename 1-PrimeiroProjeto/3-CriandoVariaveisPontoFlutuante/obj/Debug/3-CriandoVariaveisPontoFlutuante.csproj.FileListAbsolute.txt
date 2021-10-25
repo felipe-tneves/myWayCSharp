@@ -1,0 +1,6 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\3-CriandoVariaveisPontoFlutuante.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\3-CriandoVariaveisPontoFlutuante.pdb

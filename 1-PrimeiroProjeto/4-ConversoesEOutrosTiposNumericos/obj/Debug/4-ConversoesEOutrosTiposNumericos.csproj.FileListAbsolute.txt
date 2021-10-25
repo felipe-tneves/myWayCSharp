@@ -1,0 +1,7 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

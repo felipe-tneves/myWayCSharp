@@ -1,0 +1,6 @@
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe.config
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\P12-CalculaInvestimentoLongoPrazo.pdb
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\P12-CalculaInvestimentoLongoPrazo.pdb

@@ -1,0 +1,7 @@
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\bin\Debug\P10-CalculaPoupaca.exe.config
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\bin\Debug\P10-CalculaPoupaca.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\bin\Debug\P10-CalculaPoupaca.pdb
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\obj\Debug\P10-CalculaPoupaca.csproj.AssemblyReference.cache
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\obj\Debug\P10-CalculaPoupaca.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\obj\Debug\P10-CalculaPoupaca.exe
+D:\user\Desktop\myWayCSharp\1-PrimeiroProjeto\P10-CalculaPoupaca\obj\Debug\P10-CalculaPoupaca.pdb

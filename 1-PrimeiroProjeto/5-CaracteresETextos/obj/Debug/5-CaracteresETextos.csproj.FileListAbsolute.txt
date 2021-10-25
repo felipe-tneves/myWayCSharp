@@ -1,0 +1,6 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb

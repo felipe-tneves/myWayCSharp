@@ -1,0 +1,7 @@
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+D:\user\Desktop\C#\modulo01\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb
