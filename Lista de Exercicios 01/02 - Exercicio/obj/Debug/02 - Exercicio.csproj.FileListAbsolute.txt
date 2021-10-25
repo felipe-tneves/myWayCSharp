@@ -1,0 +1,7 @@
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\bin\Debug\02 - Exercicio.exe.config
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\bin\Debug\02 - Exercicio.exe
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\bin\Debug\02 - Exercicio.pdb
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\obj\Debug\02 - Exercicio.csproj.AssemblyReference.cache
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\obj\Debug\02 - Exercicio.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\obj\Debug\02 - Exercicio.exe
+D:\user\Desktop\myWayCSharp\Lista de Exercicios 01\02 - Exercicio\obj\Debug\02 - Exercicio.pdb
