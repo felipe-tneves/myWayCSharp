@@ -1,0 +1,34 @@
+Lista de exercicios POO - C#
+
+ 1)Implemente um programa no qual o usuário deverá informar o nome e a idade de três pessoas. O programa deverá informar o nome da pessoa que possuir a maior idade.
+
+Regras que deverão ser seguidas para a implementação do algoritmo:
+
+- É obrigatório o uso de classe para representar uma pessoa e a mesma deverá possuir como propriedades (características) um nome e uma idade.
+- A classe também deverá possuir um método chamado ExibirDados. Esse método deverá exibir o nome e a idade da pessoa em questão.
+- Ao implementar a classe é obrigatório implementar dois construtores (Sobrecarga), um que não recebe parâmetro algum e outro que irá receber o nome e a idade de uma pessoa.
+
+
+2)Crie um algoritmo/programa no qual o usuário deverá informar o nome e o tipo de cinco animais de estimação. O programa deverá exibir na tela para o usuário quantos Cachorros, Gatos e peixes foram informados.
+
+Regras que deverão ser seguidas para a implementação do algoritmo:
+
+- Os únicos tipos de animais válidos são Cachorro, Gato, Peixe.
+- Caso seja informado um tipo diferente o programa deverá definir o tipo do animal como Peixe.
+- É obrigatório criar uma classe para representar o Animal.
+- A classe deverá possuir dois dados privados (propriedades) para representar as características do animal.
+- A classe deverá possuir métodos de acesso para permitir que o usuário armazene/leia os dados dos dois dados privados (propriedades).
+
+3)Crie um programa que exiba para o usuário qual é a área de um retângulo. Para implementar esse programa você deverá seguir as seguintes regras:
+
+O usuário deverá informar para o programa o valor da base e altura do retângulo/quadrado.
+- É obrigatório criar/utilizar uma classe para representar o retângulo/quadrado.
+- A base e a altura informada pelo usuário deveram ser representadas na classe como propriedades.
+- O objeto deverá possuir uma propriedade para exibir o valor da área do retângulo/quadrado
+- O objeto deverá possuir um método que exiba os dados de todas as suas propriedades.
+
+https://dfilitto.com.br/desenvolvimento/c-sharp/lista-de-exercicios-de-programacao-orientada-a-objetos-em-c-1-parte/
+
+4)https://www.ic.unicamp.br/~santanch/teaching/oop/exercicios/poo-exercicios-05-polimorfismo-v01.pdf
+
+https://www.caelum.com.br/apostila-csharp-orientacao-objetos

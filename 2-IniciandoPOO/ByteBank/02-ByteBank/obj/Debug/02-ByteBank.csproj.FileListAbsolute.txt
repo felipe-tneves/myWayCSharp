@@ -1,0 +1,7 @@
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+D:\user\Desktop\myWayCSharp\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
