@@ -1,0 +1,7 @@
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+D:\user\Desktop\myWayCSharp\3-Heraca_Interfaces\ByteBank\ByteBank\obj\Debug\ByteBank.pdb

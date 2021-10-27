@@ -1,0 +1,57 @@
+Conteúdo visto no curso:
+
+- C# parte 01:
+	- História e ecossistema de linguagem
+	- Primeiro programa e o VS
+	- Variavéis numéricas
+	- Variavéis de texto
+	- Controle de fluxo com IF
+	- Controle de fluxo com laço de repetição
+
+- C # parte 02 conhecendo POO:
+	- Primeira classe
+	- Tipos:
+		- Como acessar e alterar campos de um objeto
+		- Valores padrões de campos de classes
+		- Tipos de referência e tipos de valor
+		- Inicialização de campos
+		- Como funciona a atribuição de uma referência à uma variável
+	- Comportamentos de classes:
+		- como definir métodos com parâmetros e retorno
+		- como retornar algo usando a palavra chave return antes da expressão do resultado
+		- o uso do return para retornar antecipadamente a execução de um método
+		- como usar a referência this para acessar um atributo
+		- que podemos passar uma referência como parâmetro do método
+		- métodos são chamadas a partir da referência usando o operador
+	- Namespace composição e null:
+		- Realizar o relacionamento entre classes através de composição.
+		- Vantagens de se isolar informações repetidas em outra classe.
+		- Como namespaces funcionam no C#.
+		- O que forma o nome completo de uma classe.
+		- Como as diretivas using são usadas.
+		- O valor null.
+	- Propriedades:
+		- Atributos privados, restringindo o acesso aos atributos
+		- Encapsulamento de código
+		- Métodos de leitura dos atributos, os getters
+		- Métodos de modificação dos atributos, os setters
+		- A sintaxe de propriedades no C# para facilitar a criação de getters e setters: public int Idade { get; set; }
+		- Getters e Setters de referência
+	- Construtures e membros estáticos:
+		- Construtor da classe, possibilitando receber argumentos e inicializar atributos a partir da criação de um objeto;
+			Com isso, a inicialização dos atributos recebidos no construtor torna-se obrigatória.
+		- Atributos da classe, os atributos estáticos;
+		- Métodos da classe, os métodos estáticos;
+		- Ausência de referência, do this, dentro de métodos estáticos.
+
+- C# parte 03 Entendendo Herança e interface:
+	- Conhacendo o problema do cliente:
+		- Podemos criar diretórios na raiz de nosso projeto para organizar melhor o código!
+		- O recurso de possíveis soluções do Visual Studio, acessível pelo atalho CTRL+PONTO;
+		- Podemos ter vários métodos com o mesmo nome, desde que possuam lista de argumentos diferentes! Estas são as sobrecargas.
+
+
+
+
+
+
