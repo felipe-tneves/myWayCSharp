@@ -32,3 +32,8 @@ https://dfilitto.com.br/desenvolvimento/c-sharp/lista-de-exercicios-de-programac
 4)https://www.ic.unicamp.br/~santanch/teaching/oop/exercicios/poo-exercicios-05-polimorfismo-v01.pdf
 
 https://www.caelum.com.br/apostila-csharp-orientacao-objetos
+
+
+private < protected < public 
+
+Correta! A palavra chave com a menor visibilidade é private, depois vem o protected e depois public. private - apenas visível dentro da classe; protected - visível dentro da classe e também para as filhas; public - visível em todo lugar; Repare também que protected é relacionado com a herança.
