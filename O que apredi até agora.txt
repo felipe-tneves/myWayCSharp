@@ -61,6 +61,14 @@ Conteúdo visto no curso:
 		- Preenchendo construtores da classe base a partir da classe derivada, com a sintaxe public Diretor(string cpf) : base(5000, cpf);
 		- Classes e métodos abstratos!
 	- Mais herança e herança múltipla:
+		- Trabalhamos mais a fundo com herança;
+		- Trabalhamos mais a fundo com abstrações.
+	- Interfaces:
+		- Como implementar;
+		- Para que ele serve;
+		- Como usar uma classe e uma interface;
+
+- C# parte 04 
 
 
 
